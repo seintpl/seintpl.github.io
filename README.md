@@ -4,7 +4,8 @@ This is the place for the OSINT things I want to share. Most of them are from my
 
 ### OSINT
 
-* [Camera filename patterns](https://seintpl.github.io/osint/camera-filename-pattern)
+* [Camera filename patterns](https://github.com/seintpl/osint/blob/main/camera-filename-pattern.md)
+* [Short links verification cheatsheet](https://github.com/seintpl/osint/blob/main/short-links-verification-cheatsheet.md)
 
 ### 2021 OSINT / geolocation quiz
 
