@@ -7,6 +7,10 @@ This is the place for the OSINT things I want to share. Most of them are from my
 * [Camera filename patterns](https://github.com/seintpl/osint/blob/main/camera-filename-pattern.md)
 * [Short links verification cheatsheet](https://github.com/seintpl/osint/blob/main/short-links-verification-cheatsheet.md)
 
+### OSINT tools
+
+* [ytxtractor](https://seintpl.github.io/ytxtractor/) - extract cover / thumbnail images from a Youtube video (online tool)
+
 ### 2021 OSINT / geolocation quiz
 
 * If you like OSINT quizzes, take a look at my [2021 OSINT quiz](https://github.com/seintpl/osintquiz)
