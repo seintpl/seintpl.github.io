@@ -11,6 +11,7 @@ This is the place for the OSINT things I want to share. Most of them are from my
 ### OSINT tools
 
 * [ytxtractor](https://seintpl.github.io/ytxtractor/) - extract cover / thumbnail images from a Youtube video (online tool)
+* [NAMINT](https://seintpl.github.io/NAMINT/) - show possible name and login search patterns (with links) based on first, middle and last name
 
 ### 2021 OSINT / geolocation quiz
 
