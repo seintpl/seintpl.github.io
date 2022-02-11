@@ -5,7 +5,7 @@ This is the place for the OSINT things I want to share. Most of them are from my
 ### OSINT
 
 * [Camera filename patterns](https://github.com/seintpl/osint/blob/main/camera-filename-pattern.md)
-* [Short links verification cheatsheet](https://github.com/seintpl/osint/blob/main/short-links-verification-cheatsheet.md)
+* [Short links verification cheatsheet](https://seintpl.github.io/osint/short-links-verification-cheatsheet)
 * [Aircraft emergency squawk codes cheatsheet](https://github.com/seintpl/osint/blob/main/squawk-codes.md)
 
 ### OSINT tools
