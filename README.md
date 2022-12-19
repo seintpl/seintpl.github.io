@@ -19,8 +19,10 @@ This is the place for the OSINT things I want to share. Most of them are from my
 * [ytxtractor](https://seintpl.github.io/ytxtractor/) - extract cover / thumbnail images from a Youtube video (online tool)
 * [imagstodon](https://seintpl.github.io/imagstodon/) - search a few Mastodon instances for profile pictures and data (online tool)
 
-### 2021 OSINT / geolocation quiz
+### OSINT / geolocation quiz
 
-* If you like OSINT quizzes, take a look at my [2021 OSINT quiz](https://github.com/seintpl/osintquiz)
+* If you like OSINT quizzes, take a look at my quizzes:
+  * [2022 OSINT quiz](https://github.com/seintpl/osintquiz/tree/main/2022)
+  * [2021 OSINT quiz](https://github.com/seintpl/osintquiz/tree/main/2021)
 
 More to come!
