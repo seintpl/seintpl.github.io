@@ -6,8 +6,8 @@ This is the place for the OSINT things I want to share. Most of them are from my
 
 * [OSINT & Social Engineering - translated articles list](https://github.com/seintpl/osint/blob/main/OSINT-SE-translated-articles.md)
 * Geolocation Analysis Diagram (aka Geolocation cheatsheet):
-  * Outside clues: [interactive PDF](https://github.com/seintpl/osint/blob/main/Geolocation%20Analysis%20Diagram%20Outside%20clues.pdf) or [PNG](https://github.com/seintpl/osint/blob/main/Geolocation%20Analysis%20Diagram%20Outside%20clues.png)
-  * Inside clues: [interactive PDF](https://github.com/seintpl/osint/blob/main/Geolocation%20Analysis%20Diagram%20Inside%20clues.pdf) or [PNG](https://github.com/seintpl/osint/blob/main/Geolocation%20Analysis%20Diagram%20Inside%20clues.png)
+  * Outside clues: [interactive PDF](https://github.com/seintpl/osint/blob/main/Geolocation%20Analysis%20Diagram%20Outside%20clues.pdf), [PNG](https://github.com/seintpl/osint/blob/main/Geolocation%20Analysis%20Diagram%20Outside%20clues.png) or [XMIND](https://github.com/seintpl/osint/blob/main/Geolocation%20Analysis%20Diagram%20Outside%20clues.xmind)
+  * Inside clues: [interactive PDF](https://github.com/seintpl/osint/blob/main/Geolocation%20Analysis%20Diagram%20Inside%20clues.pdf), [PNG](https://github.com/seintpl/osint/blob/main/Geolocation%20Analysis%20Diagram%20Inside%20clues.png) or [XMIND](https://github.com/seintpl/osint/blob/main/Geolocation%20Analysis%20Diagram%20Inside%20clues.xmind)
 * [Camera filename patterns](https://github.com/seintpl/osint/blob/main/camera-filename-pattern.md)
 * [Short links verification cheatsheet](https://seintpl.github.io/osint/short-links-verification-cheatsheet)
 * [Aircraft emergency squawk codes cheatsheet](https://github.com/seintpl/osint/blob/main/squawk-codes.md)
